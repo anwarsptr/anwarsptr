@@ -34,15 +34,16 @@
     <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/bootstrap.svg" width="36" height="36" alt="Bootstrap" /></a> &nbsp;
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/tailwindcss.svg" width="36" height="36" alt="Tailwind CSS" /></a> &nbsp;
-  <a href="https://mui.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/materialui.svg" width="36" height="36" alt="Material UI" /></a> &nbsp;
+  <a href="https://mui.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/materialui.svg" width="36" height="36" alt="Material UI" /></a> 
+  
+  <br>
   <a href="https://blogger.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/blogger.svg" width="36" height="36" alt="Blogger" /></a> &nbsp;
   <a href="https://wordpress.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/wordpress.svg" width="36" height="36" alt="Wordpress" /></a> &nbsp;
   <a href="https://joomla.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/joomla.svg" width="36" height="36" alt="Joomla" /></a> 
-  
-  <br>
+    <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/joomla.svg" width="36" height="36" alt="Joomla" /></a> &nbsp;
   <a href="https://php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/php.svg" width="36" height="36" alt="PHP" /></a> &nbsp;
   <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
@@ -69,14 +70,14 @@
     <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/flutter.svg" width="36" height="36" alt="Flutter" /></a> &nbsp;
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/dart.svg" width="36" height="36" alt="Dart" /></a> &nbsp;
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/kotlin.svg" width="36" height="36" alt="Kotlin" /></a> &nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/nodejs.svg" width="36" height="36" alt="NodeJS" /></a> &nbsp;
   <a href="https://python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/python.svg" width="36" height="36" alt="Python" /></a> &nbsp;
   <a href="https://go.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/golang.svg" width="36" height="36" alt="GO Lang" /></a> &nbsp;
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/kotlin.svg" width="36" height="36" alt="Kotlin" /></a> 
+    <img src="https://raw.githubusercontent.com/anwarsptr/anwarsptr/main/assets/tools/golang.svg" width="36" height="36" alt="GO Lang" /></a>
 
   <br>
   
